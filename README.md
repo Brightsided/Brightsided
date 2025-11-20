@@ -1,87 +1,57 @@
-# 👋 ¡Hola! Soy Emanuel Santiago
+<h1 align="center">👋 Hola, soy <span style="color:#3b82f6;">Emanuel Santiago</span>!</h1>
 
-🎓 Estudiante de **Desarrollo de Software en Senati** con enfoque en desarrollo web, backend y optimización de sistemas.  
-🚀 Apasionado por la arquitectura de software, integración de servicios externos y ejecución de soluciones escalables orientadas a resultados.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&lines=Desarrollador+de+Software;Apasionado+por+Backend+y+BD;Aprendiz+constante+de+tecnolog%C3%ADas;Arquitectura+de+software+%F0%9F%9A%80;Siempre+mejorando+mis+habilidades" />
+</p>
 
 ---
 
-## 🛠️ Tecnologías principales
+### 🚀 Sobre mí
 
-### 🖥️ Frontend
-<div>
+💻 Estudiante de **Desarrollo de Software en Senati**  
+🔍 Enfocado en el **desarrollo backend, optimización de bases de datos y arquitectura de software**  
+🌱 Me gusta resolver problemas complejos con soluciones escalables  
+🧠 Interesado en **APIs, integración de servicios y buenas prácticas de desarrollo**
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 💡 Frontend
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react" />
 </div>
 
-### ⚙️ Backend y Arquitectura
-<div>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
+### ⚙️ Backend & Dev
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,mysql" />
 </div>
 
-### 🗄️ Bases de datos y optimización
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+### 📦 Otros conocimientos
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </div>
 
-- Diseño de **bases de datos relacionales escalables**
-- Consultas SQL avanzadas (optimización, subconsultas, triggers, procedimientos almacenados)
-- Modelado de datos aplicado a necesidades reales
-
----
-
-## 🧠 Otros conocimientos técnicos
-
-- **Fundamentos de arquitectura MVC y diseño modular**
-- **Integración de APIs externas** (ej: Discord Webhooks y servicios remotos)
-- **Automatización ligera con Lua**
-- Control de versiones con **Git y GitHub**
-- Manejo de entorno local de desarrollo y despliegue en entornos productivos básicos
+📌 Integración de **APIs externas (Discord, automatizaciones, webhooks)**  
+📌 Conocimientos en **Lua para automatización y lógica de procesos**  
+📌 Fundamentos de **arquitectura MVC y diseño modular**  
+📌 Modelado eficiente y consultoría en **BD relacionales**
 
 ---
 
 ## 📌 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🛍️ Sistema de gestión comercial para productos deportivos | Gestión dinámica de inventarios con categorización, tallas y trazabilidad de cambios | PHP, MySQL, SQL Avanzado |
-| 📦 Bazar ABEM (en desarrollo) | Plataforma modular para gestión de ventas en pequeñas empresas | Angular + Backend PHP |
-| 🔔 Integración de servicios externos | Automatización de eventos y comunicación a canales privados | Lua, APIs externas |
-| 🧠 Modelo relacional para zoológicos | Implementación completa con consultas optimizadas y escenarios complejos | SQL Avanzado |
-
----
-
-## 📚 Actualmente profundizando en...
-
-- Laravel y desarrollo backend profesional
-- Diseño de **APIs RESTful y buenas prácticas**
-- Arquitectura por capas y patrones de diseño
-- Testing y optimización de rendimiento
-- Node.js con enfoque en microservicios iniciales
+| 🚀 Proyecto | 📄 Descripción | 🛠️ Tecnologías |
+|-------------|----------------|----------------|
+| 🛍️ Sistema Comercial Deportivo | Gestión avanzada de inventarios con categorización, tallas y trazabilidad | PHP, SQL Avanzado |
+| 📦 Bazar ABEM | Plataforma modular para pequeñas empresas | Angular + PHP |
+| 🔔 Automatización vía APIs | Integración de eventos con servicios externos (Discord Webhook) | Lua, APIs |
+| 🧠 Modelo relacional Zoológicos | DB compleja con consultas optimizadas y escenarios reales | SQL Avanzado |
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Emanuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brightsided&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brightsided&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 💬 Sobre mí
-
-💡 Me interesa el desarrollo de soluciones aplicadas a pequeñas empresas y la transformación digital.  
-📌 Tengo facilidad para explicar conceptos técnicos a personas no técnicas.  
-🧩 Disfruto resolver problemas mediante análisis estructurado y pensamiento lógico.
-
----
-
-📫 **¿Hablamos?**  
-*Colaboraciones, proyectos o aprendizaje conjunto, siempre bienvenidos.*
-
----
-
-✨ *"Un buen software no sólo debe funcionar, debe ser escalable, entendible y mantenerse en el tiempo."*
+## 📚 Actualmente mejorando en...
+```txt
+📌 Laravel (nivel intermedio)
+📌 Diseño de APIs RESTful
+📌 Optimización y performance en backend
+📌 Arquitectura por capas y patrones de diseño
