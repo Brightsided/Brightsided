@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#3b82f6;">Emanuel Santiago</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Desarrollador+de+Software+en+formación;Especializado+en+Backend+%26+Bases+de+Datos;Apasionado+por+la+Arquitectura+Software;Buscando+crear+soluciones+escalables+🚀" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software;Especializado+en+Backend+y+Datos;Arquitectura+de+Software;Listo+para+nuevos+retos" alt="Typing SVG" />
 </p>
 
 <p align="center">
