@@ -4,8 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stack-Backend_Developer-3b82f6?style=for-the-badge&logo=serverless&logoColor=white" alt="Stack">
-  <img src="https://img.shields.io/badge/Estudiante-SENATI-f59e0b?style=for-the-badge&logo=education&logoColor=white" alt="Education">
-  <img src="https://img.shields.io/badge/Ubicación-Lima,_Perú-10b981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Estudiante-INSTITUTO-f59e0b?style=for-the-badge&logo=education&logoColor=white" alt="Education">
 </p>
 
 ---
