@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy estudiante de **Desarrollo de Software en SENATI**, con foco en construir sistemas **escalables, mantenibles y bien diseñados**. Me especializo en backend y arquitectura, y disfruto especialmente el diseño de bases de datos eficientes y la implementación de patrones de diseño.
+Soy estudiante de **Desarrollo de Software**, con foco en construir sistemas **escalables, mantenibles y bien diseñados**. Me especializo en backend y arquitectura, y disfruto especialmente el diseño de bases de datos eficientes y la implementación de patrones de diseño.
 
 ```typescript
 const emanuel = {
