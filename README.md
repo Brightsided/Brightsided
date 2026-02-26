@@ -24,7 +24,7 @@ Soy estudiante de **Desarrollo de Software en SENATI**, con foco en construir si
 ```typescript
 const emanuel = {
   location:     "Lima, Perú 🇵🇪",
-  education:    "Desarrollo de Software @ SENATI",
+  education:    "Desarrollo de Software",
   currentFocus: ["Microservicios", "Optimización SQL", "Patrones de Diseño"],
   learning:     ["Docker", "CI/CD", "Clean Architecture"],
   lookingFor:   "Prácticas pre-profesionales · Backend Junior",
