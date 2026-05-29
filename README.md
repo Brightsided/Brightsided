@@ -1,202 +1,364 @@
 <div align="center">
 
-```
-███████╗███╗   ███╗ █████╗ ███╗   ██╗██╗   ██╗███████╗██╗
-██╔════╝████╗ ████║██╔══██╗████╗  ██║██║   ██║██╔════╝██║
-█████╗  ██╔████╔██║███████║██╔██╗ ██║██║   ██║█████╗  ██║
-██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║
-███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗
-╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
-```
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Emanuel&fontSize=72&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Lima%2C%20Per%C3%BA%20%F0%9F%87%B5%F0%9F%87%AA&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-### Backend Developer · Lima, Perú 🇵🇪
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+production-ready+systems+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Spring+Boot+%C2%B7+TypeScript)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+de+Software+%40+SENATI;Full-Stack+%7C+React+%7C+Node.js+%7C+TypeScript;Arquitectura+REST+%7C+Prisma+%7C+MySQL;Buscando+Pr%C3%A1cticas+Pre-Profesionales+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br>
+
+<!-- QUICK LINKS -->
+<a href="https://github.com/Brightsided?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-8-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/Brightsided">
+  <img src="https://img.shields.io/badge/Open_to_Work-Backend_&_Full--Stack-238636?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 Sobre Mí
+## 🎯 About
 
-Soy estudiante de **Desarrollo de Software**, enfocado en construir sistemas **full-stack robustos, escalables y bien estructurados**. Me especializo en arquitectura backend y disfruto especialmente el diseño de APIs REST, bases de datos relacionales y patrones de diseño aplicados a proyectos reales.
+Software Development student at **SENATI** with a focus on building **production-grade full-stack systems**. I specialize in backend architecture — REST API design, relational databases, security patterns, and clean code principles. Every project I build solves a real-world problem.
 
 ```typescript
 const emanuel = {
-  location:     "Lima, Perú 🇵🇪",
-  education:    "Desarrollo de Software",
-  currentFocus: ["REST APIs", "Prisma ORM", "Arquitectura Full-Stack"],
-  learning:     ["Docker", "CI/CD", "Clean Architecture"],
-  lookingFor:   "Prácticas pre-profesionales · Backend / Full-Stack Junior",
-  motto:        "Análisis primero, código después."
+  role:        "Full-Stack Developer",
+  location:    "Lima, Perú 🇵🇪",
+  education:   "Software Development @ SENATI",
+  focus:       ["REST APIs", "System Architecture", "Database Design"],
+  languages:   ["TypeScript", "Java", "PHP", "Python"],
+  philosophy:  "Analyze first, code second."
 };
 ```
 
----
+<br>
 
-## 🛠️ Stack Tecnológico
+## 🏆 Featured Projects
 
-<div align="center">
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Bases de Datos & ORM
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🛒 [Bazar ABEM React](https://github.com/Brightsided/bazar-abem-react) — Sistema Integral de Ventas para PYMEs
-
-> Sistema de nivel producción: ventas, inventario, clientes, reportes y facturación electrónica SUNAT.
+<!-- PROJECT 1 -->
+<table>
+<tr>
+<td width="60">
+<h3>🛒</h3>
+</td>
+<td>
+<h3><a href="https://github.com/Brightsided/bazar-abem-react">Bazar ABEM</a> — Enterprise Sales Management System</h3>
+<p><em>Production-level POS system for SMBs with sales, inventory, customers, reporting, and SUNAT electronic invoicing.</em></p>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Prisma](https://img.shields.io/badge/Prisma-20232A?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql&logoColor=4479A1)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=flat-square&logo=react&logoColor=F7DF1E)
+![JWT](https://img.shields.io/badge/JWT-20232A?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
-- 🔐 **Auth JWT** con roles Admin/Vendedor y contraseñas bcrypt
-- 📊 **Dashboard** con métricas en tiempo real y alertas automáticas de stock bajo
-- 📦 **Inventario** con trazabilidad completa y códigos de barras CODE128 descargables
-- 💳 **Registro de ventas** con Efectivo, Tarjeta y Yape; descuento automático de stock
-- 📈 **Reportes** con gráficos interactivos (Recharts) y filtros por período personalizable
-- 📄 **Boletas/Facturas PDF** con códigos QR, envío por Email y WhatsApp
-- 🏦 **Facturación electrónica SUNAT** (XML UBL 2.1, IGV 18%, firma digital)
-- 🏪 **Cierre de caja** con historial, pagos a proveedores y exportación PDF
-- ⚡ **React Query** para caché + **Zustand** para estado global
+> **`30+ REST endpoints`** · **`25+ React components`** · **`10,000+ lines of code`** · **`98% TypeScript`**
 
-> `30+ endpoints REST` · `25+ componentes React` · `10,000+ líneas de código` · `TypeScript 98%`
+<details>
+<summary><b>✦ Key Features</b></summary>
+<br>
+
+| Area | Details |
+|:---|:---|
+| 🔐 **Authentication** | JWT with Admin/Seller roles, bcrypt password hashing |
+| 📊 **Dashboard** | Real-time metrics, automatic low-stock alerts |
+| 📦 **Inventory** | Full traceability, downloadable CODE128 barcodes |
+| 💳 **Sales** | Cash, Card & Yape payments with auto stock deduction |
+| 📈 **Reports** | Interactive Recharts visualizations with custom date filters |
+| 📄 **Invoicing** | PDF receipts with QR codes, Email & WhatsApp delivery |
+| 🏦 **SUNAT Integration** | Electronic invoicing (XML UBL 2.1, 18% IGV, digital signature) |
+| 🏪 **Cash Register** | Shift close with payment history & PDF export |
+
+</details>
 
 ---
 
-### 🛍️ [Baza Shop](https://github.com/Brightsided/baza-shop) — E-commerce de Ropa Full-Stack
-
-> Tienda online con catálogo dinámico, carrito persistente y animaciones fluidas.
+<!-- PROJECT 2 -->
+<table>
+<tr>
+<td width="60">
+<h3>🏢</h3>
+</td>
+<td>
+<h3><a href="https://github.com/Brightsided/Sistema-de-Reserva-de-Ambientes">Room Reservation System</a> — Enterprise Booking Platform</h3>
+<p><em>Corporate web application for managing physical spaces — classrooms, labs, auditoriums — with a 3-level approval workflow.</em></p>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-20232A?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Java](https://img.shields.io/badge/Java_17-20232A?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Security](https://img.shields.io/badge/Spring_Security_6-20232A?style=flat-square&logo=springsecurity&logoColor=6DB33F)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-20232A?style=flat-square&logo=thymeleaf&logoColor=005F0F)
+![MySQL](https://img.shields.io/badge/MySQL_8-20232A?style=flat-square&logo=mysql&logoColor=4479A1)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-20232A?style=flat-square&logo=bootstrap&logoColor=7952B3)
 
 </div>
 
-- 🏪 **Catálogo** de productos con filtrado por categoría (5 categorías, 13 productos)
-- 🛒 **Carrito** con persistencia local via Zustand
-- 🎨 **Animaciones** con Framer Motion y diseño responsive mobile-first
-- 📞 **Contacto** con validación y botón de WhatsApp directo
-- 🔌 **API REST** Express.js + Prisma con seed automático
+<details>
+<summary><b>✦ Key Features</b></summary>
+<br>
+
+| Area | Details |
+|:---|:---|
+| 👥 **Role-based Access** | Admin / Responsible / User with Spring Security 6 |
+| 📅 **Interactive Calendar** | FullCalendar-powered global view with status filters |
+| 🔄 **Approval Workflow** | 3-level request → approve/reject with full traceability |
+| ⚡ **Real-time Validation** | Automatic schedule overlap detection |
+| 🌗 **Dark/Light Mode** | Persistent theme toggle per device |
+| 📊 **Reports** | Active reservations & user history with stored procedures |
+
+</details>
 
 ---
 
-### 📦 Otros Proyectos
+<!-- PROJECT 3 -->
+<table>
+<tr>
+<td width="60">
+<h3>🛍️</h3>
+</td>
+<td>
+<h3><a href="https://github.com/Brightsided/baza-shop">Baza Shop</a> — Full-Stack E-Commerce Platform</h3>
+<p><em>Modern online clothing store with dynamic catalog, persistent cart, and smooth Framer Motion animations.</em></p>
+</td>
+</tr>
+</table>
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🛍️ **Sistema Comercial Deportivo** | Inventario deportivo con reportes avanzados y control de stock | PHP · MySQL · MVC |
-| 🦁 **Zoo Database** | Modelo relacional 3FN con stored procedures, triggers e índices optimizados | SQL Avanzado |
-| 🤖 **Bot de Automatización** | Notificaciones en tiempo real con procesamiento de eventos vía webhooks | Lua · Discord API |
+<div align="center">
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-20232A?style=flat-square&logo=framer&logoColor=0055FF)
+![Prisma](https://img.shields.io/badge/Prisma-20232A?style=flat-square&logo=prisma&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=flat-square&logo=react&logoColor=F7DF1E)
+
+</div>
+
+<details>
+<summary><b>✦ Key Features</b></summary>
+<br>
+
+- 🏪 Product catalog with category filtering (5 categories, 13 products)
+- 🛒 Cart with local persistence via Zustand
+- 🎨 Fluid animations with Framer Motion & responsive mobile-first design
+- 📞 Contact form with validation + direct WhatsApp integration
+- 🔌 Express.js + Prisma REST API with automatic seeding
+
+</details>
 
 ---
+
+<!-- PROJECT 4 -->
+<table>
+<tr>
+<td width="60">
+<h3>🗺️</h3>
+</td>
+<td>
+<h3><a href="https://github.com/Brightsided/ITANESApp_Red">ITANES</a> — Android Tourism App</h3>
+<p><em>Native Android app showcasing 5 Peruvian tourist routes with interactive maps, photo galleries, and favorites system.</em></p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-20232A?style=flat-square&logo=android&logoColor=3DDC84)
+![Java](https://img.shields.io/badge/Java_17-20232A?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Material](https://img.shields.io/badge/Material_3-20232A?style=flat-square&logo=materialdesign&logoColor=white)
+![Room](https://img.shields.io/badge/Room_DB-20232A?style=flat-square&logo=sqlite&logoColor=003B57)
+![OSMDroid](https://img.shields.io/badge/OSMDroid-20232A?style=flat-square&logo=openstreetmap&logoColor=7EBC6F)
+
+</div>
+
+<details>
+<summary><b>✦ Key Features</b></summary>
+<br>
+
+- 🗺️ 5 tourist routes with 25 real GPS-located points of interest
+- 📸 62 curated photos across all locations
+- 🏗️ MVVM architecture with Room DB, ViewModel & LiveData
+- ✨ Premium animations — bounce, fade, cascade layout effects
+- 🎨 Peruvian-inspired terracotta & gold color palette
+
+</details>
+
+<br>
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td align="center" width="140"><b>Frontend</b></td>
+<td align="center" width="140"><b>Backend</b></td>
+<td align="center" width="140"><b>Database</b></td>
+<td align="center" width="140"><b>Tools</b></td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=ts" width="36" /><br><sub>TypeScript</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="36" /><br><sub>React</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="36" /><br><sub>Node.js</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="36" /><br><sub>MySQL</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="36" /><br><sub>Git</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="36" /><br><sub>Java</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=angular" width="36" /><br><sub>Angular</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=express" width="36" /><br><sub>Express</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" width="36" /><br><sub>PostgreSQL</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=linux" width="36" /><br><sub>Linux</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=php" width="36" /><br><sub>PHP</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" /><br><sub>Tailwind</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=spring" width="36" /><br><sub>Spring Boot</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="36" /><br><sub>MongoDB</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=postman" width="36" /><br><sub>Postman</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=py" width="36" /><br><sub>Python</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=vite" width="36" /><br><sub>Vite</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" width="36" /><br><sub>Laravel</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=prisma" width="36" /><br><sub>Prisma</sub>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="36" /><br><sub>VS Code</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brightsided&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&rank_icon=github)
+<a href="https://github.com/Brightsided">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Brightsided&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=percentile&include_all_commits=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Brightsided">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightsided&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brightsided&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8)
+<br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brightsided&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brightsided&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
----
+<br>
 
-## 📈 Roadmap de Aprendizaje
+## 🎓 Education
 
-```mermaid
-timeline
-    title Mi Evolución Técnica
-    2022 : 🧠 Fundamentos
-         : Lógica, Algoritmos & POO
-    2023 : 🌐 Desarrollo Web
-         : PHP + MySQL · Arquitectura MVC
-         : Sistemas Académicos
-    2024 : ⚡ Stack Moderno
-         : React + TypeScript
-         : Node.js + REST APIs
-         : Prisma ORM · Zustand
-    2025 : 🚀 Sistemas de Producción
-         : JWT · Facturación SUNAT
-         : Framer Motion · React Query
-         : Prácticas Profesionales 🎯
+**SENATI** — Software Development &nbsp; `2022 – Present`
+
+> Backend specialization · Integrative projects with modern technologies · Design patterns & best practices
+
+<br>
+
+## 💡 What I Bring
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🔍  Analysis-first mindset — I understand the business        │
+│       logic before writing a single line of code                │
+│                                                                 │
+│   🏗️  Solid architecture — Real projects with scalable          │
+│       structure and separation of concerns                      │
+│                                                                 │
+│   🔐  Security from day one — JWT, bcrypt, Zod, CORS,           │
+│       Helmet, Spring Security applied in production             │
+│                                                                 │
+│   📝  Documented code — Detailed READMEs, installation          │
+│       guides, and technical docs in every repository            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 💡 ¿Por Qué Trabajar Conmigo?
-
-| | |
-|---|---|
-| 🔍 **Análisis antes que código** | Entiendo la lógica de negocio antes de escribir una sola línea |
-| 🏗️ **Arquitectura sólida** | Proyectos reales con estructura escalable y separación de responsabilidades |
-| 🔐 **Seguridad desde el inicio** | JWT, bcrypt, Zod, CORS y Helmet aplicados en producción |
-| 📚 **Stack actualizado** | React 19, Vite, Prisma, Framer Motion, TypeScript en todos mis proyectos |
-| 📝 **Código documentado** | READMEs detallados, guías de instalación y documentación técnica en cada repo |
-
----
-
-## 🎓 Formación
-
-**🏫 SENATI — Desarrollo de Software** · *2022 – Presente*
-> Especialización en backend y arquitectura · Proyectos integradores con tecnologías actuales · Buenas prácticas y patrones de diseño
+<br>
 
 ---
 
 <div align="center">
 
-### 🤝 Conectemos
+### Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Brightsided-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brightsided)
+<br>
 
-*Abierto a oportunidades de prácticas pre-profesionales como Backend / Full-Stack Junior*
+<a href="https://github.com/Brightsided">
+  <img src="https://img.shields.io/badge/GitHub-Brightsided-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<br><br>
 
-⭐ **Si te gustó mi trabajo, explora mis repositorios y deja una estrella** ⭐
+<sub>Open to internship & junior opportunities — Backend / Full-Stack</sub>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Brightsided.Brightsided)
+<br>
+
+![](https://komarev.com/ghpvc/?username=Brightsided&style=flat-square&color=58a6ff&label=Profile+Views)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
